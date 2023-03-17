@@ -1,8 +1,7 @@
 #include <stdio.h>
 /**
 *main - the main entry
-*puts - text output
-*return - always 0
+*Return: always 0 (success)
 */
 int main(void)
 {
